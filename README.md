@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karmaitsolutions
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Terrraform / M365DSC
+- 👀 I’m interested in ... All aspects of automation
+- 🌱 I’m currently learning ...Terraform / M365DSC
 - 💞️ I’m looking to collaborate on M365 / EntraID Automation
 - 📫 How to reach me ...tech@karmait.co.uk
 - 😄 Pronouns: ...
